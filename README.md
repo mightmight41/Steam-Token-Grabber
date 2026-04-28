@@ -6,4 +6,4 @@ System.IdentityModel.Tokens.Jwt
 # Disclaimer
 This project is provided for educational purposes only. Use it responsibly and only with accounts you own.
 
-( Reposted from my old account github.com/might41/Steam-login-via-token | github.com/might41/Steam-Token-Grabber )
+(Reposted from my old account github.com/might41/Steam-login-via-token | github.com/might41/Steam-Token-Grabber)
